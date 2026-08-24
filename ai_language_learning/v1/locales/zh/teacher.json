@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "zh",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "实用英语教练", "intro": "你的实用英语教练。", "description": "把日常想法变成清晰、自信的对话。"},
-    "nora_hayes": {"name": "Nora Hayes", "role": "学习习惯教练", "intro": "你的稳定学习伙伴。", "description": "建立清晰、轻松的学习习惯，持续稳步进步。"},
-    "maya_brooks": {"name": "Maya Brooks", "role": "会话教练", "intro": "你的活力会话教练。", "description": "通过真实场景练习，更自然地表达并享受每一次对话。"},
-    "clara_bennett": {"name": "Clara Bennett", "role": "英语基础教练", "intro": "你的清晰自信英语教练。", "description": "让英语变得有条理、易上手又实用，帮助你应对日常沟通。"}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "实用沟通教练",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "把日常想法转化为清晰、自信的沟通。"
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "学习节奏教练",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "建立容易坚持的学习节奏，持续稳步进步。"
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "真实场景练习教练",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "通过真实场景练习，更自然地沟通并保持学习兴趣。"
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "系统学习教练",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "让语言学习变得有条理、易上手又实用，服务于每天的沟通。"
+    }
   }
 }

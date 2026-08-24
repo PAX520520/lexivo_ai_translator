@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "en",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "Practical English Coach", "intro": "Your practical English coach.", "description": "Turn everyday ideas into clear, confident conversations."},
-    "nora_hayes": {"name": "Nora Hayes", "role": "Learning Habits Coach", "intro": "Your steady learning partner.", "description": "Build a clear, manageable learning routine and make steady progress."},
-    "maya_brooks": {"name": "Maya Brooks", "role": "Conversation Coach", "intro": "Your lively conversation coach.", "description": "Use real-world practice to speak naturally and enjoy every conversation."},
-    "clara_bennett": {"name": "Clara Bennett", "role": "English Foundations Coach", "intro": "Your clear and confident English coach.", "description": "Make English organized, approachable, and useful for everyday communication."}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "Practical Communication Coach",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "Turn everyday ideas into clear, confident communication."
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "Learning Routine Coach",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "Build a manageable learning routine and make steady progress."
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "Real-world Practice Coach",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "Practice real-world situations to communicate naturally and stay engaged."
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "Structured Learning Coach",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "Make language learning organized, approachable, and useful every day."
+    }
   }
 }

@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "in",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "Pelatih Bahasa Inggris Praktis", "intro": "Pelatih bahasa Inggris praktis Anda.", "description": "Ubah ide sehari-hari menjadi percakapan yang jelas dan percaya diri."},
-    "nora_hayes": {"name": "Nora Hayes", "role": "Pelatih Kebiasaan Belajar", "intro": "Teman belajar Anda yang konsisten.", "description": "Bangun rutinitas belajar yang jelas dan mudah dijalani untuk terus maju."},
-    "maya_brooks": {"name": "Maya Brooks", "role": "Pelatih Percakapan", "intro": "Pelatih percakapan Anda yang penuh energi.", "description": "Berlatih dengan situasi nyata agar berbicara lebih alami dan menikmati setiap percakapan."},
-    "clara_bennett": {"name": "Clara Bennett", "role": "Pelatih Dasar Bahasa Inggris", "intro": "Pelatih bahasa Inggris Anda yang jelas dan percaya diri.", "description": "Jadikan bahasa Inggris teratur, mudah dipahami, dan berguna untuk komunikasi sehari-hari."}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "Pelatih Komunikasi Praktis",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "Ubah ide sehari-hari menjadi komunikasi yang jelas dan percaya diri."
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "Pelatih Rutinitas Belajar",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "Bangun rutinitas belajar yang mudah dipertahankan agar terus maju."
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "Pelatih Praktik Dunia Nyata",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "Berlatih dalam situasi nyata agar berkomunikasi lebih alami dan tetap termotivasi."
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "Pelatih Pembelajaran Terstruktur",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "Jadikan pembelajaran bahasa teratur, mudah dipahami, dan berguna setiap hari."
+    }
   }
 }

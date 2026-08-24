@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "hi",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "व्यावहारिक अंग्रेज़ी कोच", "intro": "आपका व्यावहारिक अंग्रेज़ी कोच।", "description": "रोज़मर्रा के विचारों को स्पष्ट और आत्मविश्वासी बातचीत में बदलें।"},
-    "nora_hayes": {"name": "Nora Hayes", "role": "सीखने की आदतों की कोच", "intro": "आपकी निरंतर सीखने की साथी।", "description": "एक स्पष्ट और आसान सीखने की दिनचर्या बनाकर लगातार आगे बढ़ें।"},
-    "maya_brooks": {"name": "Maya Brooks", "role": "बातचीत की कोच", "intro": "आपकी जीवंत बातचीत की कोच।", "description": "वास्तविक अभ्यास से स्वाभाविक रूप से बोलें और हर बातचीत का आनंद लें।"},
-    "clara_bennett": {"name": "Clara Bennett", "role": "अंग्रेज़ी की बुनियादी कोच", "intro": "आपकी स्पष्ट और आत्मविश्वासी अंग्रेज़ी कोच।", "description": "अंग्रेज़ी को व्यवस्थित, आसान और रोज़मर्रा के संवाद के लिए उपयोगी बनाएं।"}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "व्यावहारिक संवाद कोच",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "रोज़मर्रा के विचारों को स्पष्ट और आत्मविश्वासी संवाद में बदलें।"
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "सीखने की दिनचर्या की कोच",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "आसानी से निभाई जा सकने वाली सीखने की दिनचर्या बनाकर लगातार आगे बढ़ें।"
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "वास्तविक अभ्यास की कोच",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "वास्तविक परिस्थितियों का अभ्यास करके स्वाभाविक संवाद करें और सीखने में रुचि बनाए रखें।"
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "व्यवस्थित भाषा सीखने की कोच",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "भाषा सीखने को व्यवस्थित, आसान और हर दिन उपयोगी बनाएं।"
+    }
   }
 }

@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "ar",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "مدرب الإنجليزية العملية", "intro": "مدربك العملي للغة الإنجليزية.", "description": "حوّل أفكارك اليومية إلى محادثات واضحة وواثقة."},
-    "nora_hayes": {"name": "Nora Hayes", "role": "مدربة عادات التعلم", "intro": "شريكتك في التعلم المستمر.", "description": "ابنِ روتين تعلم واضحًا وسهلًا وتقدم بثبات."},
-    "maya_brooks": {"name": "Maya Brooks", "role": "مدربة المحادثة", "intro": "مدربتك الحيوية للمحادثة.", "description": "استخدم تدريبات واقعية لتتحدث بطبيعية وتستمتع بكل محادثة."},
-    "clara_bennett": {"name": "Clara Bennett", "role": "مدربة أساسيات الإنجليزية", "intro": "مدربتك الواضحة والواثقة للإنجليزية.", "description": "اجعل الإنجليزية منظمة وسهلة ومفيدة للتواصل اليومي."}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "مدرب التواصل العملي",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "حوّل أفكارك اليومية إلى تواصل واضح وواثق."
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "مدربة روتين التعلم",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "ابنِ روتين تعلم سهل الالتزام به وتقدم بثبات."
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "مدربة الممارسة الواقعية",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "تدرّب على مواقف واقعية لتتواصل بطبيعية وتحافظ على حماسك."
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "مدربة التعلم المنظم",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "اجعل تعلم اللغة منظمًا وسهلًا ومفيدًا كل يوم."
+    }
   }
 }

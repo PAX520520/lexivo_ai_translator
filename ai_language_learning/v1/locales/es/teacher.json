@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "es",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "Entrenador de inglés práctico", "intro": "Tu entrenador práctico de inglés.", "description": "Convierte las ideas cotidianas en conversaciones claras y seguras."},
-    "nora_hayes": {"name": "Nora Hayes", "role": "Entrenadora de hábitos de aprendizaje", "intro": "Tu compañera de aprendizaje constante.", "description": "Crea una rutina clara y sencilla para avanzar con constancia."},
-    "maya_brooks": {"name": "Maya Brooks", "role": "Entrenadora de conversación", "intro": "Tu entrenadora dinámica de conversación.", "description": "Practica con situaciones reales para hablar con naturalidad y disfrutar cada conversación."},
-    "clara_bennett": {"name": "Clara Bennett", "role": "Entrenadora de fundamentos de inglés", "intro": "Tu entrenadora de inglés clara y segura.", "description": "Haz que el inglés sea ordenado, cercano y útil para comunicarte cada día."}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "Entrenador de comunicación práctica",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "Convierte las ideas cotidianas en una comunicación clara y segura."
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "Entrenadora de rutinas de aprendizaje",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "Crea una rutina de aprendizaje fácil de mantener y avanza con constancia."
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "Entrenadora de práctica real",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "Practica situaciones reales para comunicarte con naturalidad y mantener la motivación."
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "Entrenadora de aprendizaje estructurado",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "Haz que aprender idiomas sea ordenado, cercano y útil cada día."
+    }
   }
 }

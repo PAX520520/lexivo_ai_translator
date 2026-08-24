@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "zh-TW",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "實用英語教練", "intro": "你的實用英語教練。", "description": "將日常想法變成清晰、自信的對話。"},
-    "nora_hayes": {"name": "Nora Hayes", "role": "學習習慣教練", "intro": "你的穩定學習夥伴。", "description": "建立清晰、輕鬆的學習習慣，持續穩步進步。"},
-    "maya_brooks": {"name": "Maya Brooks", "role": "會話教練", "intro": "你的活力會話教練。", "description": "透過真實情境練習，更自然地表達並享受每一次對話。"},
-    "clara_bennett": {"name": "Clara Bennett", "role": "英語基礎教練", "intro": "你的清晰自信英語教練。", "description": "讓英語變得有條理、易上手又實用，幫助你應對日常溝通。"}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "實用溝通教練",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "將日常想法轉化為清晰、自信的溝通。"
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "學習節奏教練",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "建立容易維持的學習節奏，持續穩步進步。"
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "真實情境練習教練",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "透過真實情境練習，更自然地溝通並保持學習興趣。"
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "系統學習教練",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "讓語言學習變得有條理、易上手又實用，服務於每天的溝通。"
+    }
   }
 }

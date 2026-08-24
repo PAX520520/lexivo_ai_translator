@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "ko",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "실용 영어 코치", "intro": "실용 영어 코치입니다.", "description": "일상의 아이디어를 명확하고 자신감 있는 대화로 바꿔 드립니다."},
-    "nora_hayes": {"name": "Nora Hayes", "role": "학습 습관 코치", "intro": "꾸준한 학습 파트너입니다.", "description": "명확하고 부담 없이 이어 갈 학습 습관을 만들며 꾸준히 나아가세요."},
-    "maya_brooks": {"name": "Maya Brooks", "role": "회화 코치", "intro": "즐거운 회화 코치입니다.", "description": "실전 상황을 연습하며 더 자연스럽게 말하고 대화를 즐겨 보세요."},
-    "clara_bennett": {"name": "Clara Bennett", "role": "영어 기초 코치", "intro": "명확하고 자신감 있는 영어 코치입니다.", "description": "영어를 체계적으로 익혀 매일의 소통에 유용하게 활용하세요."}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "실용 커뮤니케이션 코치",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "일상의 아이디어를 명확하고 자신감 있는 소통으로 바꿔 드립니다."
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "학습 루틴 코치",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "부담 없이 이어 갈 학습 루틴을 만들며 꾸준히 나아가세요."
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "실전 연습 코치",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "실전 상황을 연습하며 더 자연스럽게 소통하고 학습의 흥미를 유지해 보세요."
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "체계적인 학습 코치",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "언어 학습을 체계적이고 쉽게 익혀 매일의 소통에 유용하게 활용하세요."
+    }
   }
 }

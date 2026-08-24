@@ -3,9 +3,29 @@
   "config_key": "teacher_locale",
   "locale": "ja",
   "teachers": {
-    "adrian_cole": {"name": "Adrian Cole", "role": "実践英語コーチ", "intro": "実践的な英語コーチです。", "description": "日常のアイデアを、わかりやすく自信のある会話に変えていきます。"},
-    "nora_hayes": {"name": "Nora Hayes", "role": "学習習慣コーチ", "intro": "継続学習のパートナーです。", "description": "無理なく続けられる明確な学習習慣を作り、着実に進みましょう。"},
-    "maya_brooks": {"name": "Maya Brooks", "role": "会話コーチ", "intro": "会話を楽しくするコーチです。", "description": "実際の場面で練習し、自然に話して会話を楽しみましょう。"},
-    "clara_bennett": {"name": "Clara Bennett", "role": "英語基礎コーチ", "intro": "明確で自信のある英語コーチです。", "description": "英語を整理して身につけ、毎日のコミュニケーションに役立てましょう。"}
+    "adrian_cole": {
+      "name": "Adrian Cole",
+      "role": "実践コミュニケーションコーチ",
+      "intro": "Hi, I'm Adrian, your practical communication coach. We'll turn everyday ideas into clear, confident conversations, one useful step at a time.",
+      "description": "日常のアイデアを、わかりやすく自信のあるコミュニケーションに変えていきます。"
+    },
+    "nora_hayes": {
+      "name": "Nora Hayes",
+      "role": "学習ルーティンコーチ",
+      "intro": "Hi, I'm Nora. I'll help you build a learning routine that feels clear, manageable, and rewarding. Let's make steady progress together.",
+      "description": "無理なく続けられる学習ルーティンを作り、着実に進みましょう。"
+    },
+    "maya_brooks": {
+      "name": "Maya Brooks",
+      "role": "実践練習コーチ",
+      "intro": "Hi, I'm Maya! We'll use lively, real-world practice to help you communicate more naturally and enjoy every conversation.",
+      "description": "実際の場面で練習し、自然にコミュニケーションを取りながら意欲を保ちましょう。"
+    },
+    "clara_bennett": {
+      "name": "Clara Bennett",
+      "role": "体系的な学習コーチ",
+      "intro": "Hi, I'm Clara. I'll make language learning feel organized, approachable, and useful, so you can communicate with confidence every day.",
+      "description": "語学学習を整理して身につけ、毎日のコミュニケーションに役立てましょう。"
+    }
   }
 }
