@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "zh",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "实用英语教练", "intro": "你的实用英语教练。", "description": "把日常想法变成清晰、自信的对话。"},
+    "nora_hayes": {"name": "Nora Hayes", "role": "学习习惯教练", "intro": "你的稳定学习伙伴。", "description": "建立清晰、轻松的学习习惯，持续稳步进步。"},
+    "maya_brooks": {"name": "Maya Brooks", "role": "会话教练", "intro": "你的活力会话教练。", "description": "通过真实场景练习，更自然地表达并享受每一次对话。"},
+    "clara_bennett": {"name": "Clara Bennett", "role": "英语基础教练", "intro": "你的清晰自信英语教练。", "description": "让英语变得有条理、易上手又实用，帮助你应对日常沟通。"}
+  }
+}

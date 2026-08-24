@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "ar",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "مدرب الإنجليزية العملية", "intro": "مدربك العملي للغة الإنجليزية.", "description": "حوّل أفكارك اليومية إلى محادثات واضحة وواثقة."},
+    "nora_hayes": {"name": "Nora Hayes", "role": "مدربة عادات التعلم", "intro": "شريكتك في التعلم المستمر.", "description": "ابنِ روتين تعلم واضحًا وسهلًا وتقدم بثبات."},
+    "maya_brooks": {"name": "Maya Brooks", "role": "مدربة المحادثة", "intro": "مدربتك الحيوية للمحادثة.", "description": "استخدم تدريبات واقعية لتتحدث بطبيعية وتستمتع بكل محادثة."},
+    "clara_bennett": {"name": "Clara Bennett", "role": "مدربة أساسيات الإنجليزية", "intro": "مدربتك الواضحة والواثقة للإنجليزية.", "description": "اجعل الإنجليزية منظمة وسهلة ومفيدة للتواصل اليومي."}
+  }
+}

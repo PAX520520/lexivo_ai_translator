@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "ja",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "実践英語コーチ", "intro": "実践的な英語コーチです。", "description": "日常のアイデアを、わかりやすく自信のある会話に変えていきます。"},
+    "nora_hayes": {"name": "Nora Hayes", "role": "学習習慣コーチ", "intro": "継続学習のパートナーです。", "description": "無理なく続けられる明確な学習習慣を作り、着実に進みましょう。"},
+    "maya_brooks": {"name": "Maya Brooks", "role": "会話コーチ", "intro": "会話を楽しくするコーチです。", "description": "実際の場面で練習し、自然に話して会話を楽しみましょう。"},
+    "clara_bennett": {"name": "Clara Bennett", "role": "英語基礎コーチ", "intro": "明確で自信のある英語コーチです。", "description": "英語を整理して身につけ、毎日のコミュニケーションに役立てましょう。"}
+  }
+}

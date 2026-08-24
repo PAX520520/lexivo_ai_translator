@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher",
+  "default_teacher_key": "maya_brooks",
+  "teachers": [
+    {
+      "teacher_id": 1,
+      "teacher_key": "adrian_cole",
+      "sort_order": 1,
+      "media": {
+        "intro_audio": "audio/adrian-cole-intro.mp3",
+        "thumbnail": "image/adrian-cole-idle-light.png",
+        "idle_images": {
+          "light": "image/adrian-cole-idle-light.png",
+          "dark": "image/adrian-cole-idle-dark.png"
+        },
+        "idle_videos": {
+          "light": ["video/adrian-cole-idle-light.mp4"],
+          "dark": ["video/adrian-cole-idle-dark.mp4"]
+        },
+        "speaking_videos": {
+          "light": [
+            "video/adrian-cole-speaking-light-01.mp4",
+            "video/adrian-cole-speaking-light-02.mp4"
+          ],
+          "dark": [
+            "video/adrian-cole-speaking-dark-01.mp4",
+            "video/adrian-cole-speaking-dark-02.mp4"
+          ]
+        }
+      }
+    },
+    {
+      "teacher_id": 2,
+      "teacher_key": "nora_hayes",
+      "sort_order": 2,
+      "media": {
+        "intro_audio": "audio/nora-hayes-intro.mp3",
+        "thumbnail": "image/nora-hayes-idle-light.png",
+        "idle_images": {
+          "light": "image/nora-hayes-idle-light.png",
+          "dark": "image/nora-hayes-idle-dark.png"
+        },
+        "idle_videos": {
+          "light": ["video/nora-hayes-idle-light.mp4"],
+          "dark": ["video/nora-hayes-idle-dark.mp4"]
+        },
+        "speaking_videos": {
+          "light": [
+            "video/nora-hayes-speaking-light-01.mp4",
+            "video/nora-hayes-speaking-light-02.mp4"
+          ],
+          "dark": [
+            "video/nora-hayes-speaking-dark-01.mp4",
+            "video/nora-hayes-speaking-dark-02.mp4"
+          ]
+        }
+      }
+    },
+    {
+      "teacher_id": 3,
+      "teacher_key": "maya_brooks",
+      "sort_order": 3,
+      "media": {
+        "intro_audio": "audio/maya-brooks-intro.mp3",
+        "thumbnail": "image/maya-brooks-idle-light.png",
+        "idle_images": {
+          "light": "image/maya-brooks-idle-light.png",
+          "dark": "image/maya-brooks-idle-dark.png"
+        },
+        "idle_videos": {
+          "light": ["video/maya-brooks-idle-light.mp4"],
+          "dark": ["video/maya-brooks-idle-dark.mp4"]
+        },
+        "speaking_videos": {
+          "light": [
+            "video/maya-brooks-speaking-light-01.mp4",
+            "video/maya-brooks-speaking-light-02.mp4",
+            "video/maya-brooks-speaking-light-03.mp4"
+          ],
+          "dark": [
+            "video/maya-brooks-speaking-dark-01.mp4",
+            "video/maya-brooks-speaking-dark-02.mp4",
+            "video/maya-brooks-speaking-dark-03.mp4"
+          ]
+        }
+      }
+    },
+    {
+      "teacher_id": 4,
+      "teacher_key": "clara_bennett",
+      "sort_order": 4,
+      "media": {
+        "intro_audio": "audio/clara-bennett-intro.mp3",
+        "thumbnail": "image/clara-bennett-idle-light.png",
+        "idle_images": {
+          "light": "image/clara-bennett-idle-light.png",
+          "dark": "image/clara-bennett-idle-dark.png"
+        },
+        "idle_videos": {
+          "light": ["video/clara-bennett-idle-light.mp4"],
+          "dark": ["video/clara-bennett-idle-dark.mp4"]
+        },
+        "speaking_videos": {
+          "light": [
+            "video/clara-bennett-speaking-light-01.mp4",
+            "video/clara-bennett-speaking-light-02.mp4"
+          ],
+          "dark": [
+            "video/clara-bennett-speaking-dark-01.mp4",
+            "video/clara-bennett-speaking-dark-02.mp4"
+          ]
+        }
+      }
+    }
+  ]
+}

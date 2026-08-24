@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "zh-TW",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "實用英語教練", "intro": "你的實用英語教練。", "description": "將日常想法變成清晰、自信的對話。"},
+    "nora_hayes": {"name": "Nora Hayes", "role": "學習習慣教練", "intro": "你的穩定學習夥伴。", "description": "建立清晰、輕鬆的學習習慣，持續穩步進步。"},
+    "maya_brooks": {"name": "Maya Brooks", "role": "會話教練", "intro": "你的活力會話教練。", "description": "透過真實情境練習，更自然地表達並享受每一次對話。"},
+    "clara_bennett": {"name": "Clara Bennett", "role": "英語基礎教練", "intro": "你的清晰自信英語教練。", "description": "讓英語變得有條理、易上手又實用，幫助你應對日常溝通。"}
+  }
+}

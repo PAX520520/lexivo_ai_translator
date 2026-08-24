@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "fr",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "Coach d'anglais pratique", "intro": "Votre coach d'anglais pratique.", "description": "Transformez les idées du quotidien en conversations claires et assurées."},
+    "nora_hayes": {"name": "Nora Hayes", "role": "Coach des habitudes d'apprentissage", "intro": "Votre partenaire d'apprentissage régulier.", "description": "Créez une routine claire et simple pour progresser avec régularité."},
+    "maya_brooks": {"name": "Maya Brooks", "role": "Coach de conversation", "intro": "Votre coach de conversation dynamique.", "description": "Pratiquez avec des situations concrètes pour parler naturellement et profiter de chaque échange."},
+    "clara_bennett": {"name": "Clara Bennett", "role": "Coach des bases de l'anglais", "intro": "Votre coach d'anglais clair et assuré.", "description": "Rendez l'anglais structuré, accessible et utile pour communiquer chaque jour."}
+  }
+}

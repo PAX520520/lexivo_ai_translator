@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "en",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "Practical English Coach", "intro": "Your practical English coach.", "description": "Turn everyday ideas into clear, confident conversations."},
+    "nora_hayes": {"name": "Nora Hayes", "role": "Learning Habits Coach", "intro": "Your steady learning partner.", "description": "Build a clear, manageable learning routine and make steady progress."},
+    "maya_brooks": {"name": "Maya Brooks", "role": "Conversation Coach", "intro": "Your lively conversation coach.", "description": "Use real-world practice to speak naturally and enjoy every conversation."},
+    "clara_bennett": {"name": "Clara Bennett", "role": "English Foundations Coach", "intro": "Your clear and confident English coach.", "description": "Make English organized, approachable, and useful for everyday communication."}
+  }
+}

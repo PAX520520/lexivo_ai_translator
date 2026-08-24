@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "config_key": "teacher_locale",
+  "locale": "es",
+  "teachers": {
+    "adrian_cole": {"name": "Adrian Cole", "role": "Entrenador de inglés práctico", "intro": "Tu entrenador práctico de inglés.", "description": "Convierte las ideas cotidianas en conversaciones claras y seguras."},
+    "nora_hayes": {"name": "Nora Hayes", "role": "Entrenadora de hábitos de aprendizaje", "intro": "Tu compañera de aprendizaje constante.", "description": "Crea una rutina clara y sencilla para avanzar con constancia."},
+    "maya_brooks": {"name": "Maya Brooks", "role": "Entrenadora de conversación", "intro": "Tu entrenadora dinámica de conversación.", "description": "Practica con situaciones reales para hablar con naturalidad y disfrutar cada conversación."},
+    "clara_bennett": {"name": "Clara Bennett", "role": "Entrenadora de fundamentos de inglés", "intro": "Tu entrenadora de inglés clara y segura.", "description": "Haz que el inglés sea ordenado, cercano y útil para comunicarte cada día."}
+  }
+}
