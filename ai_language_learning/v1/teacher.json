@@ -9,10 +9,10 @@
       "sort_order": 1,
       "media": {
         "intro_audio": "audio/adrian-cole-intro.mp3",
-        "thumbnail": "image/adrian-cole-idle-light.png",
+        "avatar": "image/avatar/adrian-cole.png",
         "idle_images": {
-          "light": "image/adrian-cole-idle-light.png",
-          "dark": "image/adrian-cole-idle-dark.png"
+          "light": "image/idle/adrian-cole-light.png",
+          "dark": "image/idle/adrian-cole-dark.png"
         },
         "idle_videos": {
           "light": ["video/adrian-cole-idle-light.mp4"],
@@ -36,10 +36,10 @@
       "sort_order": 2,
       "media": {
         "intro_audio": "audio/nora-hayes-intro.mp3",
-        "thumbnail": "image/nora-hayes-idle-light.png",
+        "avatar": "image/avatar/nora-hayes.png",
         "idle_images": {
-          "light": "image/nora-hayes-idle-light.png",
-          "dark": "image/nora-hayes-idle-dark.png"
+          "light": "image/idle/nora-hayes-light.png",
+          "dark": "image/idle/nora-hayes-dark.png"
         },
         "idle_videos": {
           "light": ["video/nora-hayes-idle-light.mp4"],
@@ -63,10 +63,10 @@
       "sort_order": 3,
       "media": {
         "intro_audio": "audio/maya-brooks-intro.mp3",
-        "thumbnail": "image/maya-brooks-idle-light.png",
+        "avatar": "image/avatar/maya-brooks.png",
         "idle_images": {
-          "light": "image/maya-brooks-idle-light.png",
-          "dark": "image/maya-brooks-idle-dark.png"
+          "light": "image/idle/maya-brooks-light.png",
+          "dark": "image/idle/maya-brooks-dark.png"
         },
         "idle_videos": {
           "light": ["video/maya-brooks-idle-light.mp4"],
@@ -92,10 +92,10 @@
       "sort_order": 4,
       "media": {
         "intro_audio": "audio/clara-bennett-intro.mp3",
-        "thumbnail": "image/clara-bennett-idle-light.png",
+        "avatar": "image/avatar/clara-bennett.png",
         "idle_images": {
-          "light": "image/clara-bennett-idle-light.png",
-          "dark": "image/clara-bennett-idle-dark.png"
+          "light": "image/idle/clara-bennett-light.png",
+          "dark": "image/idle/clara-bennett-dark.png"
         },
         "idle_videos": {
           "light": ["video/clara-bennett-idle-light.mp4"],
